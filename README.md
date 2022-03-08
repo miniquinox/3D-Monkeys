@@ -1,5 +1,5 @@
 # 3DMonkey - Rigged stocks  
-<img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/CopperHornsSteampunk_glassesSnakesFanged_mask.gif?raw=true" width="300" height="300"/><img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/PurpleCartoon_hatSunglassesEar_glovesLow_poly_mask.gif?raw=true" width="300" height="300"/><img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/SilverSailor_hatCartoony_eyesBitcoinSurgery_mask.gif?raw=true" width="300" height="300"/>  
+<img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/CopperHornsSteampunk_glassesSnakesFanged_mask.gif?raw=true" width="100" height="100"/><img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/PurpleCartoon_hatSunglassesEar_glovesLow_poly_mask.gif?raw=true" width="100" height="100"/><img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/SilverSailor_hatCartoony_eyesBitcoinSurgery_mask.gif?raw=true" width="100" height="100"/>  
   
 3D monkeys are the first ever NFT stock and they are here to stay. The project goes as follows:  
 
