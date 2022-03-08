@@ -1,4 +1,4 @@
-# 3D-Monkeys
+<center> <h1>3D-Monkeys </h1> </center>
 # 3DMonkeys - Rigged stocks  
 <img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/CopperHornsSteampunk_glassesSnakesFanged_mask.gif?raw=true" width="33%"/><img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/PurpleCartoon_hatSunglassesEar_glovesLow_poly_mask.gif?raw=true" width="33%"/><img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/SilverSailor_hatCartoony_eyesBitcoinSurgery_mask.gif?raw=true" width="33%"/>  
   
@@ -28,5 +28,5 @@ We have a surprise for everyone who owns 3 or more monkeys as of May 16th, 2023.
 [<img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" width="15%"/>](https://discord.gg/p5Uu6QbJKB) &emsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="15%"/>](https://www.instagram.com/3dmonkeysnft/)  &emsp;  [<img src="https://storage.googleapis.com/opensea-static/Logomark/Badge%20-%20Available%20On%20-%20Light.png" width="42%"/>](https://opensea.io/collection/free-mono)    
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("credits right"); setTimeout(() => { x[0].remove(); }, 10);
-var y = document.getElementsByClassName("credits left"); setTimeout(() => { y[0].remove(); }, 10);var l = document.getElementsByClassName("title"); setTimeout(() => { l[0].remove(); }, 10); </script>
+var y = document.getElementsByClassName("credits left"); setTimeout(() => { y[0].remove(); }, 10);var l = document.getElementsById("title"); setTimeout(() => { l[0].remove(); }, 10); </script>
 
