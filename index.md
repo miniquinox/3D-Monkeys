@@ -13,7 +13,7 @@ All monkeys are computer generated using 3D algorithms to make all 3,125 possibl
   
 All NFTs have two parts: GIF (video), and GLB (3D model). Both of these are animated and ready to import into the Metaverse!  
   
-## Price
+## Dynamic Pricing
 3D Monkeys can be treated as "rigged stocks". The price of every unsold NFT in the collection will be raised by an automation algorith **every three days** by **0.1 WETH**, raising the floor price of the collection every time. There has never been a better time to HODL (Hold On for Dear Life). By holding your 3D monkey for 30 days, you add 1 WETH to your value!!  
   
 Here is a simple example: Buy your favorite 3D monkey for 1 WETH (current floor price). Wait 60 days, and the floor price of the collection is now 3 WETH. Sell it a bit lower than the floor to ensure people will buy it from you rather than directly from the collection. List it for 2.8 WETH and you will sell it in no time, as it just became the lowest in the collection!! We encourage everyone to buy 3D monkeys from people who sell lower than the floor price of the collection since this keeps a steady flow of trade.  
