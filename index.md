@@ -22,5 +22,5 @@ The collection is listed at a starting price of 0.2 WETH, and the first price ra
 
 <img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/Expected_NFT_price.png?raw=true" width="100%"/>
   
-We have a surprise for everybody who owns more than 4 monkeys as of May 16th, 2023. Join our Discord to stay in touch with our community. It is the easiest way to find monkeys lower than the floor price. Once a month, 10 random monkeys will change their price back to 0.2 WETH for 24h and only members of Discord will have accesss to buying these. Imagine buying a 5 WETH monkey for 0.2 WETH???  
+We have a surprise for everyone who owns 3 or more monkeys as of May 16th, 2023. Join our Discord to stay in touch with our community. It is the easiest way to find monkeys lower than the floor price. Once a month, 10 random monkeys will change their price back to 0.2 WETH for 24h and only members of Discord will have accesss to buying these. Imagine buying a 5 WETH monkey for 0.2 WETH???  
   
