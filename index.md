@@ -4,7 +4,7 @@
 3D monkeys are the first ever NFT stock and they are here to stay. The project goes as follows:  
 
 ## Art
-All monkeys are computer generated using 3D algorithms to make all 3,125 possible combinations of 25 possible elements:  
+All monkeys are computer generated using 3D algorithms to make all 3,125 combinations of 25 elements:  
 - **5 Colors**: Copper, Gold, Purple, Silver, and Turquoise.  
 - **5 Earwear**: Bitcoin, Cat earrings, Ear gloves, Pearl earrings, and Snakes.  
 - **5 Eyewear**: Cartoony eyes, Cinema glasses, Eyes, Steampunk glasses, and Sunglasses.  
