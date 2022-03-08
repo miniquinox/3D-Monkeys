@@ -11,7 +11,7 @@ All monkeys are computer generated using 3D algorithms to make all 3,125 combina
 - **5 Hats**: Beanie, Catroon hat, Crown, Horns, and Sailor hat.  
 - **5 Mouthwear**: Fanged mask, Lips, Low poly mask, pipe, and Surgery mask.  
   
-All NFTs have two parts: GIF (video), and GLB (3D model). Both of these are animated and ready to import into the Metaverse!  
+All our NFTs consist of two parts: GIF (video), and GLB (animated 3D model). Both of these are animated and ready to import into the Metaverse!  
   
 ## Dynamic Pricing
 3D Monkeys can be treated as "rigged stocks". The price of every unsold NFT in the collection will be raised by an automation algorith **every three days** by **0.1 WETH**, raising the floor price of the collection every time. There has never been a better time to HODL (Hold On for Dear Life). By holding your 3D monkey for 30 days, you add 1 WETH to your value!!  
