@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/miniquinox/3D-Monkeys/main/Sample%20GIFs/dragon_fruit_fruit_food_icon_218364.ico">
+<link rel="shortcut icon" type="image/x-icon" href="Sample GIFs/dragon_fruit_fruit_food_icon_218364.ico">
 
 # 3DMonkeys - Rigged stocks  
 <img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/CopperHornsSteampunk_glassesSnakesFanged_mask.gif?raw=true" width="33%"/><img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/PurpleCartoon_hatSunglassesEar_glovesLow_poly_mask.gif?raw=true" width="33%"/><img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/SilverSailor_hatCartoony_eyesBitcoinSurgery_mask.gif?raw=true" width="33%"/>  
