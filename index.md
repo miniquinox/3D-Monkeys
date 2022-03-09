@@ -1,8 +1,8 @@
-<html lang="en">
+<!-- <html lang="en">
 <head>
   <link rel="icon" href="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/SilverSailor_hatCartoony_eyesBitcoinSurgery_mask.gif?raw=true" type="image/gif" />
 <head>
-</html>
+</html> -->
 
 <script type="text/javascript">
   var title = document.getElementById("title");
