@@ -5,9 +5,9 @@
   header.remove();
 </script>
 
-<img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/3DMonkeys.png?raw=true" width="50%"/>
-
-# **3DMonkeys - Rigged stocks**  
+<div style="text-align:center"><img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/3DMonkeys%20-%20Rigged%20stocks%20colorful.png?raw=true" /></div>
+<img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/3DMonkeys%20-%20Rigged%20stocks%20colorful.png?raw=true" class="center" width="50%"/>
+  
 <img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/CopperHornsSteampunk_glassesSnakesFanged_mask.gif?raw=true" width="33%"/><img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/PurpleCartoon_hatSunglassesEar_glovesLow_poly_mask.gif?raw=true" width="33%"/><img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/SilverSailor_hatCartoony_eyesBitcoinSurgery_mask.gif?raw=true" width="33%"/>  
   
 3D monkeys are the first ever NFT stock and they are here to stay. The project goes as follows:  
