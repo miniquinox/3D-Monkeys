@@ -5,7 +5,7 @@
   header.remove();
 </script>
 
-<h1 class="MainScreen_title__2fAuk headline-large-font">Get your NFT Dragons</h1>
+<span class="GradientText_gradient__AVQii highlight-font-color-primary">Paul Pogba<img class="GradientText_gradient__svg__3t_BW"></span>
 
 # 3DMonkeys - Rigged stocks  
 <img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/CopperHornsSteampunk_glassesSnakesFanged_mask.gif?raw=true" width="33%"/><img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/PurpleCartoon_hatSunglassesEar_glovesLow_poly_mask.gif?raw=true" width="33%"/><img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/SilverSailor_hatCartoony_eyesBitcoinSurgery_mask.gif?raw=true" width="33%"/>  
