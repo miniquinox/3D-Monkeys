@@ -9,8 +9,7 @@
 <br/>
 <img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/CopperHornsSteampunk_glassesSnakesFanged_mask.gif?raw=true" width="33%"/><img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/PurpleCartoon_hatSunglassesEar_glovesLow_poly_mask.gif?raw=true" width="33%"/><img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/SilverSailor_hatCartoony_eyesBitcoinSurgery_mask.gif?raw=true" width="33%"/>  
   
-<img src="https://raw.githubusercontent.com/miniquinox/3D-Monkeys/471cc32d4ccbb1475b5c23234d48f1b8670851a8/Sample%20GIFs/Automated%20Art-cropped.svg" height="30"/>  
-  
+<img src="https://raw.githubusercontent.com/miniquinox/3D-Monkeys/fe9095c5c957975b0f572490d52575cc52af306e/Sample%20GIFs/Automated%20Art.svg" height="25"/>  
 3D monkeys are the first ever NFT stock and they are here to stay. The project goes as follows:  
 
 All monkeys are computer generated using 3D algorithms to make all 3,125 combinations of 25 elements:  
