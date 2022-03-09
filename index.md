@@ -1,12 +1,12 @@
 <link rel="icon" href="https://raw.githubusercontent.com/miniquinox/3D-Monkeys/gh-pages/favicon.ico" type="image/x-icon"/>
 
 
-<!-- <script type="text/javascript">
+<script type="text/javascript">
   var title = document.getElementById("title");
   var header = document.getElementById("header");
   title.remove();
-  header.remove();
-</script> -->
+<!--   header.remove(); -->
+</script>
 
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/miniquinox/3D-Monkeys/12486aa58d6d75e24b0800746069cebfa447f538/Sample%20GIFs/3D%20Monkeys%20-%20Rigged%20stocks-cropped.svg" width="100%"/></div>  
 <br/>
