@@ -9,9 +9,10 @@
 <br/>
 <img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/CopperHornsSteampunk_glassesSnakesFanged_mask.gif?raw=true" width="33%"/><img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/PurpleCartoon_hatSunglassesEar_glovesLow_poly_mask.gif?raw=true" width="33%"/><img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/SilverSailor_hatCartoony_eyesBitcoinSurgery_mask.gif?raw=true" width="33%"/>  
   
+<img src="https://raw.githubusercontent.com/miniquinox/3D-Monkeys/471cc32d4ccbb1475b5c23234d48f1b8670851a8/Sample%20GIFs/Automated%20Art-cropped.svg" height="30"/>  
+  
 3D monkeys are the first ever NFT stock and they are here to stay. The project goes as follows:  
 
-<img src="https://raw.githubusercontent.com/miniquinox/3D-Monkeys/471cc32d4ccbb1475b5c23234d48f1b8670851a8/Sample%20GIFs/Dynamic%20Pricing-cropped.svg" height="30"/>
 All monkeys are computer generated using 3D algorithms to make all 3,125 combinations of 25 elements:  
 - <img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/5%20Colors.png?raw=true" height="13"/> Copper, Gold, Purple, Silver, and Turquoise.  
 - <img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/5%20Earwear.png?raw=true" height="13"/> Bitcoin, Cat earrings, Ear gloves, Pearl earrings, and Snakes.  
@@ -21,7 +22,7 @@ All monkeys are computer generated using 3D algorithms to make all 3,125 combina
   
 All our NFTs consist of two parts: GIF (video), and GLB (animated 3D model). Both of these are animated and ready to import into the Metaverse!  
   
-## Dynamic Pricing
+<img src="https://raw.githubusercontent.com/miniquinox/3D-Monkeys/471cc32d4ccbb1475b5c23234d48f1b8670851a8/Sample%20GIFs/Dynamic%20Pricing-cropped.svg" height="30"/>  
 3D Monkeys can be treated as "rigged stocks". The price of every unsold NFT in the collection will be raised by an automation algorith **every three days** by **0.1 WETH**, raising the floor price of the collection every time. There has never been a better time to HODL (Hold On for Dear Life). By holding your 3D monkey for 30 days, you add 1 WETH to your value!!  
   
 Here is a simple example: Buy your favorite 3D monkey for 1 WETH (current floor price). Wait 60 days, and the floor price of the collection is now 3 WETH. Sell it a bit lower than the floor to ensure people will buy it from you rather than directly from the collection. List it for 2.8 WETH and you will sell it in no time, as it just became the lowest in the collection!! We encourage everyone to buy 3D monkeys from people who sell lower than the floor price of the collection since this keeps a steady flow of trade.  
