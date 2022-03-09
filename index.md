@@ -30,6 +30,7 @@ Here is a simple example: Buy your favorite 3D monkey for 1 WETH (current floor 
   
 The collection is listed at a starting price of 0.2 WETH, and the first price raise will happen on May 16th, 2022. Buy as many as you would like. The more you own and the earlier you get them, the bigger the profit!  
   
+<img src="https://raw.githubusercontent.com/miniquinox/3D-Monkeys/9b54359a128633dd3899764fd1c0f27868bef17c/Sample%20GIFs/Long%20term%20plans.svg" height="30"/>  
 We have a surprise for everyone who owns 3 or more monkeys as of May 16th, 2023. Join our Discord to stay in touch with our community. It is the easiest way to find monkeys lower than the floor price. Once a month, 10 random monkeys will change their price back to 0.2 WETH for 24h and only members of Discord will have accesss to buying these. Imagine buying a 5 WETH monkey for 0.2 WETH???  
   
 [<img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" width="15%"/>](https://discord.gg/p5Uu6QbJKB) &emsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="15%"/>](https://www.instagram.com/3dmonkeysnft/)  &emsp;  [<img src="https://storage.googleapis.com/opensea-static/Logomark/Badge%20-%20Available%20On%20-%20Light.png" width="42%"/>](https://opensea.io/collection/free-mono)    
