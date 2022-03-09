@@ -13,11 +13,10 @@
 ## Art
 All monkeys are computer generated using 3D algorithms to make all 3,125 combinations of 25 elements:  
 - <img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/5%20Colors.png?raw=true" height="13"/> Copper, Gold, Purple, Silver, and Turquoise.  
-- **5 Colors**: Copper, Gold, Purple, Silver, and Turquoise.  
-- **5 Earwear**: Bitcoin, Cat earrings, Ear gloves, Pearl earrings, and Snakes.  
-- **5 Eyewear**: Cartoony eyes, Cinema glasses, Eyes, Steampunk glasses, and Sunglasses.  
-- **5 Hats**: Beanie, Catroon hat, Crown, Horns, and Sailor hat.  
-- **5 Mouthwear**: Fanged mask, Lips, Low poly mask, pipe, and Surgery mask.  
+- <img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/5%20Earwear.png?raw=true" height="13"/> Bitcoin, Cat earrings, Ear gloves, Pearl earrings, and Snakes.  
+- <img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/5%20Eyewear.png?raw=true" height="15"/> Cartoony eyes, Cinema glasses, Eyes, Steampunk glasses, and Sunglasses.  
+- <img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/5%20Hats.png?raw=true" height="13"/> Beanie, Catroon hat, Crown, Horns, and Sailor hat.  
+- <img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/5%20Mouthwear.png?raw=true" height="13"/> Fanged mask, Lips, Low poly mask, pipe, and Surgery mask.  
   
 All our NFTs consist of two parts: GIF (video), and GLB (animated 3D model). Both of these are animated and ready to import into the Metaverse!  
   
