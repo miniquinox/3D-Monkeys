@@ -11,7 +11,7 @@
   
 3D monkeys are the first ever NFT stock and they are here to stay. The project goes as follows:  
 
-## Art
+<img src="https://raw.githubusercontent.com/miniquinox/3D-Monkeys/471cc32d4ccbb1475b5c23234d48f1b8670851a8/Sample%20GIFs/Dynamic%20Pricing-cropped.svg" height="30"/>
 All monkeys are computer generated using 3D algorithms to make all 3,125 combinations of 25 elements:  
 - <img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/5%20Colors.png?raw=true" height="13"/> Copper, Gold, Purple, Silver, and Turquoise.  
 - <img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/5%20Earwear.png?raw=true" height="13"/> Bitcoin, Cat earrings, Ear gloves, Pearl earrings, and Snakes.  
