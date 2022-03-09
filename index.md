@@ -14,7 +14,7 @@
 All monkeys are computer generated using 3D algorithms to make all 3,125 combinations of 25 elements:  
 - <img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/5%20Colors.png?raw=true" height="13"/> Copper, Gold, Purple, Silver, and Turquoise.  
 - <img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/5%20Earwear.png?raw=true" height="13"/> Bitcoin, Cat earrings, Ear gloves, Pearl earrings, and Snakes.  
-- <img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/5%20Eyewear.png?raw=true" height="15"/> Cartoony eyes, Cinema glasses, Eyes, Steampunk glasses, and Sunglasses.  
+- <img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/5%20E.png?raw=true" height="13"/><img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/y.png?raw=true" height="10"/><img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/ewear.png?raw=true" height="10"/> Cartoony eyes, Cinema glasses, Eyes, Steampunk glasses, and Sunglasses.  
 - <img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/5%20Hats.png?raw=true" height="13"/> Beanie, Catroon hat, Crown, Horns, and Sailor hat.  
 - <img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/5%20Mouthwear.png?raw=true" height="13"/> Fanged mask, Lips, Low poly mask, pipe, and Surgery mask.  
   
