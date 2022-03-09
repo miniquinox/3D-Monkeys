@@ -1,4 +1,5 @@
-<link rel="icon" href="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/CopperHornsSteampunk_glassesSnakesFanged_mask.gif?raw=true" type="image/gif" />
+<link rel="icon" href="3D-Monkeys/CopperHornsSteampunk_glassesSnakesFanged_mask.gif" type="image/gif" />
+
 <script type="text/javascript">
   var title = document.getElementById("title");
   var header = document.getElementById("header");
