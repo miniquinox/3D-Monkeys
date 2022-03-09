@@ -1,4 +1,4 @@
-<link rel="icon" href="3D-Monkeys/CopperHornsSteampunk_glassesSnakesFanged_mask.gif" type="image/gif" />
+<link rel="shortcut icon" type="image/x-icon" href="![Long term plans](https://user-images.githubusercontent.com/63688331/157523424-cb14dcb9-8d95-4a57-9905-cda62b4cdb84.svg)">
 
 <script type="text/javascript">
   var title = document.getElementById("title");
