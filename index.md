@@ -12,6 +12,7 @@
 
 ## Art
 All monkeys are computer generated using 3D algorithms to make all 3,125 combinations of 25 elements:  
+- <img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/5%20Colors.png?raw=true" height="13"/> Copper, Gold, Purple, Silver, and Turquoise.  
 - **5 Colors**: Copper, Gold, Purple, Silver, and Turquoise.  
 - **5 Earwear**: Bitcoin, Cat earrings, Ear gloves, Pearl earrings, and Snakes.  
 - **5 Eyewear**: Cartoony eyes, Cinema glasses, Eyes, Steampunk glasses, and Sunglasses.  
