@@ -1,5 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="![Long term plans](https://user-images.githubusercontent.com/63688331/157523424-cb14dcb9-8d95-4a57-9905-cda62b4cdb84.svg)">
-
 <script type="text/javascript">
   var title = document.getElementById("title");
   var header = document.getElementById("header");
@@ -14,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/miniquinox/3D-Monkeys/fe9095c5c957975b0f572490d52575cc52af306e/Sample%20GIFs/Automated%20Art.svg" height="25"/>  
 3D monkeys are the first ever NFT stock and they are here to stay. The project goes as follows:  
 
-All monkeys are computer generated using 3D algorithms to make all 3,125 combinations of 25 elements:  
+Hello All monkeys are computer generated using 3D algorithms to make all 3,125 combinations of 25 elements:  
 - <img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/5%20Colors.png?raw=true" height="13"/> Copper, Gold, Purple, Silver, and Turquoise.  
 - <img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/5%20Earwear.png?raw=true" height="13"/> Bitcoin, Cat earrings, Ear gloves, Pearl earrings, and Snakes.  
 - <img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/5%20E.png?raw=true" height="13"/><img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/y.png?raw=true" height="10"/><img src="https://github.com/miniquinox/3D-Monkeys/blob/main/Sample%20GIFs/ewear.png?raw=true" height="10"/> Cartoony eyes, Cinema glasses, Eyes, Steampunk glasses, and Sunglasses.  
