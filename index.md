@@ -1,6 +1,8 @@
 <script type="text/javascript">
   var title = document.getElementById("title");
+  var header = document.getElementById("header");
   title.remove();
+  header.remove();
 </script>
 
 # 3DMonkeys - Rigged stocks  
