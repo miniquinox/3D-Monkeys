@@ -28,5 +28,11 @@ We have a surprise for everyone who owns 3 or more monkeys as of May 16th, 2023.
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("credits left"); setTimeout(() => { y[0].remove(); }, 10);</script>
 <!--   var y = document.getElementsByClassName("credits right"); setTimeout(() => { x[0].remove(); }, 10); -->
-
+<script type="text/javascript">
+    function GFG_click() {
+        var title =
+        document.getElementById("title");
+        title.remove();
+    }
+</script>
 
