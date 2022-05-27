@@ -8,7 +8,7 @@ All monkeys are computer generated using 3D algorithms to make all 3,125 possibl
 - **5 Colors**: Copper, Gold, Purple, Silver, and Turquoise.  
 - **5 Earwear**: Bitcoin, Cat earrings, Ear gloves, Pearl earrings, and Snakes.  
 - **5 Eyewear**: Cartoony eyes, Cinema glasses, Eyes, Steampunk glasses, and Sunglasses.  
-- **5 Hats**: Beanie, Catroon hat, Crown, Horns, and Sailor hat.  
+- **5 Hats**: Beanie, Cartoon hat, Crown, Horns, and Sailor hat.  
 - **5 Mouthwear**: Fanged mask, Lips, Low poly mask, pipe, and Surgery mask.  
   
 All NFTs have two parts: GIF (video), and GLB (3D model). Both of these are animated and ready to import into the Metaverse!  
